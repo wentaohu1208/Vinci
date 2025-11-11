@@ -15,7 +15,7 @@
 
 
 ## 📢 News
-- [x] **`Nov 11, 2025.`** We release our training data in cold-start stage.
+- [x] **`Nov 11, 2025.`** We release our training data for cold-start stage.
 
 
 ##  📸 Overview
