@@ -24,38 +24,23 @@ With the continuous development of large language models and reasoning chain tec
 
 ## ⚙️ Installation
 
-*(TODO: Add installation commands and dependencies, e.g. conda / pip requirements)*
-Example placeholder:
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourname/Vinci.git
-cd Vinci
 
-# TODO: Add environment setup instructions
+
+# TODO
 
 
 
 ## 🚀 Inference
 
-*(TODO: Add model checkpoint links and inference scripts)*
-Example placeholder:
+
 
 ```bash
-# TODO: Replace with actual inference command
-python inference.py --config configs/vinci_infer.yaml --prompt "a robot painting in Van Gogh style"
+# TODO
+
 ```
 
-
-
-## 🧩 Training Data
-
-*(TODO: Add dataset descriptions, links, or data preparation scripts)*
-You can later include:
-
-* ✅ Dataset sources (e.g. Geneval, RealUnify, or custom RL datasets)
-* 🧠 Preprocessing pipeline
-* 📦 Download commands or paths
 
 
 ## 📚 Citation
