@@ -1,7 +1,7 @@
 
 # Vinci
 
-** [NeurIPS 2025] Vinci: Deep Thinking in Text-to-Image Generation using Unified Model with Reinforcement Learning**
+**[NeurIPS 2025] Vinci: Deep Thinking in Text-to-Image Generation using Unified Model with Reinforcement Learning**
 
 ---
 
