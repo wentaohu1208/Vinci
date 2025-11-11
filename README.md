@@ -43,18 +43,6 @@ With the continuous development of large language models and reasoning chain tec
 
 
 
-## 📚 Citation
-
-If you find this repository useful, please consider citing:
-
-```bibtex
-@article{hu2025vinci,
-  title={Vinci: Deep Thinking in Text-to-Image Generation using Unified Model with Reinforcement Learning},
-  author={Hu, Wentao and Zhang, Hanwang and others},
-  journal={NeurIPS},
-  year={2025}
-}
-```
 
 
 
