@@ -14,6 +14,9 @@
 </div>
 
 
+## 📢 News
+- [x] **`Nov 11, 2025.`** We release our training data in cold-start stage.
+
 
 ##  📸 Overview
 ![Vinci Overview](main_figure.png)
