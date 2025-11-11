@@ -13,7 +13,7 @@
 </h5>
 </div>
 
----
+
 
 ## Overview
 ![Vinci Overview](main_figure.png)
@@ -35,7 +35,7 @@ git clone https://github.com/yourname/Vinci.git
 cd Vinci
 
 # TODO: Add environment setup instructions
-```
+
 
 ---
 
